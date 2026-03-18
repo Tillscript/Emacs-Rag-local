@@ -1,0 +1,10 @@
+#+title: AI Notes
+
+* Local Models
+Running models locally increases privacy.
+
+* Embeddings
+Used for semantic search and clustering.
+
+* Tools
+Ollama, llama.cpp, sentence-transformers.

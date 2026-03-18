@@ -1,0 +1,10 @@
+#+title: Python Notes
+
+* FastAPI
+FastAPI is a modern web framework for building APIs with Python.
+
+* Async
+Python supports asynchronous programming using async/await.
+
+* Use Case
+FastAPI is commonly used to build high-performance APIs.

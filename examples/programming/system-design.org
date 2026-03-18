@@ -1,0 +1,10 @@
+#+title: System Design
+
+* Scalability
+Systems must handle increasing load efficiently.
+
+* Caching
+Caching reduces load on databases.
+
+* Message Queues
+Queues like Kafka or RabbitMQ help decouple services.

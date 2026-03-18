@@ -1,0 +1,10 @@
+#+title: GPTel Integration
+
+* GPTel
+GPTel is an Emacs package that allows interacting with LLM APIs.
+
+* Context Injection
+Retrieved notes can be injected into prompts to improve responses.
+
+* RAG
+Retrieval-Augmented Generation combines search and generation.

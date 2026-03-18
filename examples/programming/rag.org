@@ -1,0 +1,12 @@
+#+title: RAG Systems
+
+* Definition
+RAG stands for Retrieval-Augmented Generation.
+
+* Pipeline
+1. Retrieve relevant documents
+2. Inject context
+3. Generate response
+
+* Benefit
+Improves accuracy of LLM responses.

@@ -1,0 +1,10 @@
+#+title: Semantic Search
+
+* Embeddings
+Embeddings convert text into numerical vectors that represent semantic meaning.
+
+* Cosine Similarity
+Cosine similarity measures how similar two vectors are.
+
+* Use Case
+Semantic search allows finding relevant notes even if the exact keywords are not present.

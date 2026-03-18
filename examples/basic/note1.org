@@ -1,0 +1,10 @@
+#+title: Emacs Notes
+
+* Emacs
+Emacs is a highly extensible text editor that can be customized using Emacs Lisp.
+
+* Doom Emacs
+Doom Emacs is a configuration framework for Emacs focused on performance and modularity.
+
+* Org Mode
+Org mode is used for note taking, planning, and knowledge management.
